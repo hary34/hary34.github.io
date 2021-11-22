@@ -63,7 +63,7 @@ p{
 }
 #showcase{
     background: url("../index/1006.jpg") no-repeat center center/cover;
-    height: 400px;
+    height: 600px;
 }
 #showcase .showcase-content{
     color: #ffffff;
@@ -82,7 +82,7 @@ p{
 .showcase-content p{
     font-size: 20px;
 }
-button {
+.button {
     margin-top: 10px;
     border: none;
     color: #090909;
@@ -96,10 +96,37 @@ button {
 
 }
 
-button:hover {
-    border: 1px solid #B1904C;
+.button:hover {
+    border: 1px solid #500000;
+    background: #500000;
 }
 
-button:active {
+
+.text-primary{
+    color: #B1904C;
+    font-size: 50px;
+}
+.info{
+    color: white;
+    font-size: 25px;
+}
+#home-info{
+    height: 600px;
+}
+#home-info .info-img{
+    float: left;
+    width: 50%;
+    background: url("../index/1007.jpg") no-repeat center center/cover;
+    height: 100%;
+}
+#home-info .info-content{
+    background: #5a0000;
+    float: right;
+    width: 50%;
+    text-align: center;
+    line-height: 30px;
+    height: 100%;
+    padding: 50px 30px;
+    overflow: hidden;
 
 }

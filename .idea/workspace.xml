@@ -37,11 +37,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WebSIte\hary34.github.io\about" />
       <recent name="D:\WebSIte\hary34.github.io\index" />
+      <recent name="D:\WebSIte\hary34.github.io\about" />
       <recent name="D:\WebSIte\hary34.github.io\namecard" />
       <recent name="D:\WebSIte\hary34.github.io\img" />
     </key>
@@ -68,6 +69,14 @@
       <updated>1636631203579</updated>
       <workItem from="1636631206323" duration="74000" />
       <workItem from="1636870066471" duration="8134000" />
+      <workItem from="1637375489957" duration="325000" />
+      <workItem from="1637376490494" duration="42000" />
+      <workItem from="1637386863548" duration="516000" />
+      <workItem from="1637387978790" duration="360000" />
+      <workItem from="1637396419008" duration="93000" />
+      <workItem from="1637482266775" duration="3940000" />
+      <workItem from="1637497393221" duration="293000" />
+      <workItem from="1637583148330" duration="991000" />
     </task>
     <servers />
   </component>
@@ -84,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636876404769">
@@ -154,6 +164,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1899" height="344" key="GridCell.Tab.3.right/0.0.1920.1032/0.1080.1920.515@0.0.1920.1032" timestamp="1636878482191" />
+    <state x="481" y="142" key="SettingsEditor" timestamp="1637483250771">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="481" y="142" key="SettingsEditor/0.0.1920.1032/0.1080.1920.515@0.0.1920.1032" timestamp="1637483250771" />
     <state x="623" y="223" key="search.everywhere.popup" timestamp="1636876357677">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
