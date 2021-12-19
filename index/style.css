@@ -19,14 +19,22 @@ p{
 }
 .container{
     margin: 0 0;
-    
+    padding: 0 0;
     overflow: auto;
-    padding: 0 20px;
+
 }
 #navbar{
     background: #3C0000;
     color: #B1904C;
     
+}
+.cover-box{
+    height: 600px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 #navbar p{
     color: #B1904C;
@@ -63,7 +71,16 @@ p{
 }
 #showcase{
     background: url("../index/1006.jpg") no-repeat center center/cover;
+
     height: 600px;
+}
+#showcase2{
+    background: url("../index/1006.jpg") no-repeat center center/cover;
+    margin: 10px;
+    height: 400px;
+    width: 600px;
+    border: #B17A4C;
+    border-radius: 50px;
 }
 #showcase .showcase-content{
     color: #b1904c;
@@ -130,5 +147,51 @@ p{
     height: 100%;
     padding: 50px 30px;
     overflow: hidden;
+
+}
+
+#home-info2{
+    height: 300px;
+}
+#home-info2 .info-img2{
+    float: left;
+    width: 25%;
+    background: url("../index/1007.jpg") no-repeat center center/cover;
+    height: 100%;
+}
+#home-info2 .info-content2{
+    background: #5a0000;
+    float: left;
+    width: 50%;
+    text-align: center;
+    line-height: 30px;
+    height: 100%;
+    padding: 25px 15px;
+    overflow: hidden;
+
+}
+#info-contact{
+    background-color: #B17A4C;
+    float: right;
+    width: 25%;
+    height: 100%;
+    align-items: center;
+    overflow: hidden;
+}
+.elements{
+
+    text-align: center;
+    margin-top: 0;
+    height: 50%;
+
+}
+.elements3{
+    margin-top: 54px;
+}
+.elements2{
+
+    text-align: center;
+    margin-bottom: -30px;
+    height: 50%;
 
 }
